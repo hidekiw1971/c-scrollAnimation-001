@@ -1,0 +1,27 @@
+@use "global" as *;
+
+body {
+    text-align: center;
+}
+
+.single-item {
+    display: block;
+    width: 50%;
+    margin: rem(1000) auto;
+    // margin-bottom: rem(100);
+}
+
+.single-item+.single-item {
+    margin-top: rem(280); // 画像＆画像の余白をつけてる。
+}
+
+.u-fade-type-up {
+    transform: translateY(rem(50));
+    opacity: 0;
+}
+
+.u-fade-type-up.is-active {
+    transition: 1s;
+    transform: translateY(0);
+    opacity: 1;
+}
