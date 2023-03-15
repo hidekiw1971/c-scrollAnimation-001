@@ -1,4 +1,4 @@
-<img width="1598" alt="image" src="https://user-images.githubusercontent.com/99580997/225465199-4f84d526-2af8-4094-96b5-9638087e81e3.png">
+<img width="1598" alt="image" src="https://user-images.githubusercontent.com/99580997/225465324-0383dcf9-65a5-44cb-9224-41026ef7d41d.png">
 
 # compornent（共通部品）
 - JavaScript(jQuery)とcssでスクロールアニメーション（画像が下からフワっと現れる）を実装。
